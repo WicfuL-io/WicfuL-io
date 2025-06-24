@@ -12,7 +12,7 @@ Let’s grow and create together! 🚀
 ##### Social Media:
 <a href="mailto:wicful.15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://t.me/akuwiccc"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://www.instagram.com/wicful."><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.instagram.com/wicful_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 ##### Skils & stats:
 [![Skills programming](https://skillicons.dev/icons?i=html,css,php,dart,flutter,python,react,redhat)](https://skillicons.dev)
