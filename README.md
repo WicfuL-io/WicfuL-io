@@ -32,6 +32,7 @@ Let’s grow and create together! 🚀
 </picture>
 
 ###
+<img src="https://raw.githubusercontent.com/WicfuL-io/WicfuL-io/output/pacman.svg" alt="Packman animation" />
 
 <img src="https://raw.githubusercontent.com/WicfuL-io/WicfuL-io/output/snake.svg" alt="Snake animation" />
 
