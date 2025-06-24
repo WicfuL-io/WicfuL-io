@@ -21,10 +21,12 @@ Let’s grow and create together! 🚀
 
 ![WicfuL's GitHub stats](https://github-readme-stats.vercel.app/api?username=WicfuL-io&hide=contribs,prs&show_icons=true&theme=tokyonight)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31qjyivfavlt2ouw64njpgboerha)
+
 ##### Games:
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=whitev" />
 <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" />
-
+</br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WicfuL-io/WicfuL-io/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WicfuL-io/WicfuL-io/output/pacman-contribution-graph.svg">
