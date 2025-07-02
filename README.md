@@ -15,7 +15,7 @@ Let’s grow and create together! 🚀
 <a href="https://www.instagram.com/wicful_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 ##### Skils & stats:
-[![Skills programming](https://skillicons.dev/icons?i=html,css,php,dart,flutter,python,react,redhat)](https://skillicons.dev)
+[![Skills programming](https://skillicons.dev/icons?i=html,css,flutter,python,react,redhat)](https://skillicons.dev)
 
 [![Skills robotik](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
 
