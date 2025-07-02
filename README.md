@@ -17,7 +17,7 @@ Let’s grow and create together! 🚀
 ##### Skils & stats:
 [![Skills programming](https://skillicons.dev/icons?i=html,css,flutter,python,react,redhat)](https://skillicons.dev)
 
-[![Skills robotik](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
+[![Skills robotik](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
 
 ![WicfuL's GitHub stats](https://github-readme-stats.vercel.app/api?username=WicfuL-io&hide=contribs,prs&show_icons=true&theme=tokyonight)
 
