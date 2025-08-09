@@ -34,6 +34,5 @@ Let’s grow and create together! 🚀
 </picture>
 
 ###
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/WicfuL-io/WicfuL-io/output/pacman-contribution-graph.svg">
-
+<img src="https://raw.githubusercontent.com/WicfuL-io/WicfuL-io/output/snake.svg" alt="Snake animation" />
 ###
